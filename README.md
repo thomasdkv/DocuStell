@@ -96,16 +96,6 @@ stellar-pay-docs/
 └── package.json        # Project dependencies
 ```
 
-## Video Walkthrough
-
-[Watch the Technical Walkthrough](https://www.loom.com/share/your-video-id)
-
-This video covers:
-- Project architecture overview
-- Code structure walkthrough
-- Live demo of features
-- Technical implementation details
-
 ## Contributing
 
 1. Fork the repository
