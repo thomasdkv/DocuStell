@@ -9,16 +9,13 @@ A decentralized document sharing platform built on the Stellar blockchain, enabl
 ## Screenshots
 
 ### Homepage
-![Homepage](https://i.imgur.com/homepage.png)
+![Homepage](https://imgur.com/a/FoAnXVT)
 
 ### Document Marketplace
-![Marketplace](https://i.imgur.com/marketplace.png)
-
-### Document View
-![Document View](https://i.imgur.com/document-view.png)
+![Marketplace](https://imgur.com/a/3qw65Hs)
 
 ### Upload Interface
-![Upload Interface](https://i.imgur.com/upload.png)
+![Upload Interface](https://imgur.com/a/tlXJqrs)
 
 ## Features
 
