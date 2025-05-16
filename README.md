@@ -4,7 +4,7 @@ A decentralized document sharing platform built on the Stellar blockchain, enabl
 
 ## Demo Video
 
-[Watch the Demo](https://youtu.be/demo-link)
+[Watch the Demo](https://youtu.be/yA_Q0HATDIA)
 
 ## Screenshots
 
@@ -28,7 +28,7 @@ A decentralized document sharing platform built on the Stellar blockchain, enabl
 
 ## Interaction with Stellar Blockchain
 
-StellarPayDocs utilizes the Stellar blockchain in several key ways:
+DocuStell utilizes the Stellar blockchain in several key ways:
 
 1. **Payment Processing**
    - Documents are purchased using XLM
@@ -84,7 +84,7 @@ StellarPayDocs utilizes the Stellar blockchain in several key ways:
 ## Project Structure
 
 ```
-stellar-pay-docs/
+DocuStell/
 ├── src/
 │   ├── components/      # Reusable UI components
 │   ├── context/        # React context providers
