@@ -9,13 +9,13 @@ A decentralized document sharing platform built on the Stellar blockchain, enabl
 ## Screenshots
 
 ### Homepage
-![Homepage](https://imgur.com/a/FoAnXVT)
+![Homepage](https://i.imgur.com/yusJbw9.png)
 
 ### Document Marketplace
-![Marketplace](https://imgur.com/a/3qw65Hs)
+![Marketplace](https://i.imgur.com/mGuaD8f.png)
 
 ### Upload Interface
-![Upload Interface](https://imgur.com/a/tlXJqrs)
+![Upload Interface](https://i.imgur.com/FLBVpgp.png)
 
 ## Features
 
@@ -120,9 +120,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Team
 
-- [Team Member 1] - Full Stack Developer
-- [Team Member 2] - Smart Contract Developer
-- [Team Member 3] - UI/UX Designer
+- Thomas Vu
+- Amaan Hafeez
+- Jeremy Ro
+- Daniel Rad
 
 ## Acknowledgments
 
