@@ -1,4 +1,4 @@
-# StellarPayDocs
+# DocuStell
 
 A decentralized document sharing platform built on the Stellar blockchain, enabling secure and frictionless access to documents through pay-per-use functionality.
 
