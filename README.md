@@ -62,12 +62,12 @@ StellarPayDocs utilizes the Stellar blockchain in several key ways:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stellar-pay-docs.git
+   git clone https://github.com/thomasdkv/DocuStell.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd stellar-pay-docs
+   cd DocuStell
    npm install
    ```
 
